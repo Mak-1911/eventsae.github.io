@@ -13,7 +13,7 @@
   width: auto;
   background-color: rgba(0, 0, 0, 0.2);
   background-blend-mode: color;
-  background-image: url("one.jpg");
+  background-image: url(one.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
